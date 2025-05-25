@@ -35,25 +35,25 @@ cd coffee-website
 
 ## 🎨 Preview
 
-![Homepage](Screenshots/homepage)
+![Homepage](Screenshots/homepage.png)
 *Modern homepage with welcoming hero section*
 
-![About Section](Screenshots/About)
+![About Section](Screenshots/About.png)
 *About section showcasing our story and values*
 
-![Menu Section](Screenshots/Menu)
+![Menu Section](Screenshots/Menu.png)
 *Interactive menu showcase with our signature beverages*
 
-![Testimonials Section](Screenshots/Testimonials)
+![Testimonials Section](Screenshots/Testimonials.png)
 *Customer reviews and feedback section*
 
-![Gallery Section](Screenshots/Gallery)
+![Gallery Section](Screenshots/Gallery.png)
 *Photo gallery featuring our coffee and ambiance*
 
-![Contact Form](Screenshots/Contact)
+![Contact Form](Screenshots/Contact.png)
 *User-friendly contact form for inquiries*
 
-![Homepage](Screenshots/Responsive-Homepage)
+![Homepage](Screenshots/Responsive-Homepage.png)
 *Mobile-responsive design demonstration*
 
 ## 📝 Usage
